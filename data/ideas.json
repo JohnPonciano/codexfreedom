@@ -1,0 +1,58 @@
+[
+  {
+    "id": "niche-newsletter",
+    "title": "Newsletter de nicho com assinatura",
+    "model": "Assinatura",
+    "startupCost": "Baixo",
+    "timeToFirstRevenue": "30-60 dias",
+    "recurringScore": 9,
+    "whyItWorks": "Modelos de assinatura tendem a ter receita recorrente previsível quando entregam valor em um nicho específico.",
+    "execution": [
+      "Escolha um nicho onde você já tem repertório.",
+      "Publique conteúdo útil 2x por semana para ganhar confiança.",
+      "Converta a audiência em plano mensal com benefícios exclusivos."
+    ]
+  },
+  {
+    "id": "affiliate-content",
+    "title": "Canal de conteúdo evergreen + afiliados",
+    "model": "Afiliado",
+    "startupCost": "Baixo",
+    "timeToFirstRevenue": "45-90 dias",
+    "recurringScore": 7,
+    "whyItWorks": "Conteúdo evergreen continua gerando tráfego por meses e comissões recorrentes em produtos de assinatura.",
+    "execution": [
+      "Produza conteúdos comparativos e tutoriais com SEO.",
+      "Promova produtos com comissão recorrente.",
+      "Atualize os melhores conteúdos todo mês para manter ranking."
+    ]
+  },
+  {
+    "id": "template-pack",
+    "title": "Pacotes de templates e automações",
+    "model": "Produto digital",
+    "startupCost": "Baixo",
+    "timeToFirstRevenue": "15-45 dias",
+    "recurringScore": 6,
+    "whyItWorks": "Produtos digitais escalam sem custo marginal alto e podem virar assinatura com atualizações contínuas.",
+    "execution": [
+      "Monte um pack que resolve uma dor específica.",
+      "Venda em landing page simples com prova social.",
+      "Adicione plano de manutenção mensal com novos templates."
+    ]
+  },
+  {
+    "id": "micro-saas",
+    "title": "Micro SaaS para uma tarefa repetitiva",
+    "model": "SaaS",
+    "startupCost": "Médio",
+    "timeToFirstRevenue": "60-120 dias",
+    "recurringScore": 10,
+    "whyItWorks": "SaaS B2B tem alta retenção quando reduz tempo/custo do cliente e monetiza via assinatura.",
+    "execution": [
+      "Valide uma dor com 10 entrevistas rápidas.",
+      "Construa MVP focado em 1 resultado.",
+      "Cobrança mensal com onboarding simples e suporte rápido."
+    ]
+  }
+]
