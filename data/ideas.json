@@ -1,0 +1,58 @@
+[
+  {
+    "id": "creator-finance-newsletter",
+    "title": "Newsletter para criadores que querem organizar finanças",
+    "model": "Assinatura",
+    "startupCost": "Baixo",
+    "timeToFirstRevenue": "30-60 dias",
+    "recurringScore": 9,
+    "whyItWorks": "Criadores e freelancers têm dor recorrente de fluxo de caixa, precificação e reserva; conteúdo prático mensal tem alta chance de retenção.",
+    "execution": [
+      "Defina ICP: criador/freelancer de 2k-20k/mês.",
+      "Publique 2 conteúdos semanais com planilhas e playbooks.",
+      "Abra assinatura mensal com templates e plantão de dúvidas."
+    ]
+  },
+  {
+    "id": "affiliate-finance-tools",
+    "title": "Conteúdo evergreen de ferramentas financeiras + afiliados",
+    "model": "Afiliado",
+    "startupCost": "Baixo",
+    "timeToFirstRevenue": "45-90 dias",
+    "recurringScore": 7,
+    "whyItWorks": "Review e comparação de ferramentas de gestão financeira geram tráfego recorrente e comissões contínuas.",
+    "execution": [
+      "Criar páginas comparativas focadas em palavras-chave com intenção de compra.",
+      "Produzir tutoriais práticos mostrando antes/depois no caixa.",
+      "Atualizar os conteúdos campeões todo mês."
+    ]
+  },
+  {
+    "id": "finance-template-club",
+    "title": "Clube de templates financeiros para Notion/Sheets",
+    "model": "Produto digital",
+    "startupCost": "Baixo",
+    "timeToFirstRevenue": "15-45 dias",
+    "recurringScore": 8,
+    "whyItWorks": "Templates financeiros economizam tempo de autônomos e podem ser vendidos como biblioteca viva por assinatura.",
+    "execution": [
+      "Lançar pack inicial com controle de caixa, metas e impostos.",
+      "Oferecer atualização mensal de templates para assinantes.",
+      "Criar trilha de onboarding com vídeos curtos."
+    ]
+  },
+  {
+    "id": "micro-saas-cashflow",
+    "title": "Micro SaaS de projeção de fluxo de caixa para autônomos",
+    "model": "SaaS",
+    "startupCost": "Médio",
+    "timeToFirstRevenue": "60-120 dias",
+    "recurringScore": 10,
+    "whyItWorks": "Resolver previsão de caixa e alertas de risco mensal para autônomos tende a gerar retenção alta via assinatura.",
+    "execution": [
+      "Entrevistar 10-15 freelancers sobre dor de previsibilidade de receita.",
+      "Construir MVP com projeção de 90 dias e alertas automáticos.",
+      "Cobrança mensal com plano básico e pro."
+    ]
+  }
+]
