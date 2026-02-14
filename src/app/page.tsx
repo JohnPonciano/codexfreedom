@@ -17,10 +17,10 @@ export default async function HomePage() {
     <main className="grid" style={{ gap: 24 }}>
       <header className="card" style={{ padding: 24 }}>
         <p style={{ marginTop: 0, opacity: 0.7 }}>RendaLoop • Fullstack Next.js</p>
-        <h1 style={{ margin: "8px 0 12px" }}>Crie uma máquina de renda extra contínua</h1>
+        <h1 style={{ margin: "8px 0 12px" }}>Nicho escolhido: Finanças para criadores e freelancers</h1>
         <p style={{ maxWidth: 720 }}>
-          Este app organiza modelos com receita recorrente e transforma ideias em um plano de execução com meta
-          mensal.
+          Agora o app está direcionado para um nicho único: pessoas que produzem conteúdo e profissionais autônomos
+          que precisam de previsibilidade de renda mensal.
         </p>
         <Link href="/dashboard">
           <button>Abrir dashboard</button>
@@ -30,7 +30,7 @@ export default async function HomePage() {
       <section className="grid" style={{ gap: 10 }}>
         <h2 style={{ marginBottom: 0 }}>Modelos recomendados</h2>
         <p style={{ marginTop: 0, opacity: 0.8 }}>
-          Curadoria prática de formatos que podem gerar renda previsível quando executados com consistência.
+          Curadoria prática para monetizar com recorrência no nicho de finanças para criadores.
         </p>
         <IdeasBoard ideas={ideas} />
       </section>
